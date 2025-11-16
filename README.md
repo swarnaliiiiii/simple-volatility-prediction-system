@@ -135,14 +135,3 @@ Potential improvements:
 ## 👤 Author
 
 **Swarnali**
-Engineering student | Machine Learning & AI Projects
-
----
-
-If you want, I can also:
-
-✅ Generate the repository folder structure
-✅ Create `requirements.txt`
-✅ Add badges / shields for GitHub
-✅ Make a more aesthetic or minimal README
-Just tell me!
